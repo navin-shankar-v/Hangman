@@ -2,6 +2,10 @@
 
 A classic word-guessing game built with React and Vite.
 
+## Live Demo
+
+🎮 **Play the game here:** [https://navin-shankar-v.github.io/Hangman/](https://navin-shankar-v.github.io/Hangman/)
+
 ## How to Play
 
 1. Choose a category: **Movies** or **Words**
