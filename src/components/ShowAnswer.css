@@ -1,0 +1,17 @@
+.row{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.ans{
+	font-size: 200%
+}
+
+.green{
+	color: green;
+}
+
+.red{
+	color: red;
+}

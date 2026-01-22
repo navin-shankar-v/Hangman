@@ -1,0 +1,16 @@
+.button-container {
+	padding: 10px;
+}
+
+.letter-button {
+	padding: 10px;
+	margin: 10px;
+}
+
+.bg-green{
+	background-color: #AFE1AF
+}
+
+.bg-red{
+	background-color: #E97451
+}
